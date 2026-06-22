@@ -197,3 +197,7 @@ npm run build
 | Anthropic API | v1      | Assistente IA (Claude)       |
 
 **Zero dependências de UI externas** — tudo construído do zero com CSS Variables e React puro.
+
+**Tela**
+
+<img src="/src/assets/Agenda-ai.png">
